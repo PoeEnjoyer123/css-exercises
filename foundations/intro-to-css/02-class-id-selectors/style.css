@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: lightcoral;
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+.adj-font-size {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
